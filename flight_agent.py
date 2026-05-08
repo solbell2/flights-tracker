@@ -14,6 +14,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import pandas as pd
+import requests
 from fast_flights import FlightData, Passengers, Result, get_flights
 
 with open("config.json") as f:
@@ -25,6 +26,8 @@ GMAIL_APP_PW = os.environ["GMAIL_APP_PASSWORD"]
 _env_recipients = os.environ.get("RECIPIENTS", "").strip()
 if _env_recipients:
     cfg["recipients"] = [r.strip() for r in _env_recipients.split(",") if r.strip()]
+
+SERPAPI_KEY = os.environ.get("SERPAPI_KEY", "").strip()
 
 HISTORY_DIR = Path("history")
 HISTORY_DIR.mkdir(exist_ok=True)
@@ -56,6 +59,73 @@ def search_fast_flights(origin, destination, depart, ret, adults):
     except Exception as e:
         print(f"  ! fast-flights error for {depart}->{ret}: {e}")
         return []
+
+
+class _SerpFlight:
+    __slots__ = ("price", "name", "duration", "stops")
+
+    def __init__(self, price, name, duration, stops):
+        self.price = price
+        self.name = name
+        self.duration = duration
+        self.stops = stops
+
+
+def _fmt_minutes(m):
+    if m is None:
+        return ""
+    h, mm = divmod(int(m), 60)
+    return f"{h} hr {mm} min" if mm else f"{h} hr"
+
+
+def search_serpapi(origin, destination, depart, ret, adults):
+    if not SERPAPI_KEY:
+        return []
+    try:
+        resp = requests.get(
+            "https://serpapi.com/search",
+            params={
+                "engine": "google_flights",
+                "departure_id": origin,
+                "arrival_id": destination,
+                "outbound_date": depart,
+                "return_date": ret,
+                "type": 1,
+                "currency": cfg["currency"],
+                "adults": adults,
+                "api_key": SERPAPI_KEY,
+            },
+            timeout=30,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        results = (data.get("best_flights") or []) + (data.get("other_flights") or [])
+        out = []
+        for r in results:
+            price = r.get("price")
+            if price is None:
+                continue
+            airlines = " / ".join(
+                seg.get("airline", "") for seg in r.get("flights", []) if seg.get("airline")
+            ) or "Unknown"
+            out.append(_SerpFlight(
+                price=f"${price}",
+                name=airlines,
+                duration=_fmt_minutes(r.get("total_duration")),
+                stops=len(r.get("layovers", []) or []),
+            ))
+        return out
+    except Exception as e:
+        print(f"  ! serpapi error for {depart}->{ret}: {e}")
+        return []
+
+
+def search_flights(origin, destination, depart, ret, adults):
+    flights = search_fast_flights(origin, destination, depart, ret, adults)
+    if not flights and SERPAPI_KEY:
+        print(f"  -> falling back to SerpAPI for {depart}->{ret}")
+        flights = search_serpapi(origin, destination, depart, ret, adults)
+    return flights
 
 
 def parse_price(price_str):
@@ -98,8 +168,8 @@ def collect_all_offers():
             if date.fromisoformat(ret) <= date.fromisoformat(dep):
                 continue
             print(f"  Searching {dep} -> {ret} ...")
-            raw = search_fast_flights(cfg["origin"], cfg["destination"],
-                                      dep, ret, cfg["adults"])
+            raw = search_flights(cfg["origin"], cfg["destination"],
+                                 dep, ret, cfg["adults"])
             for f in raw:
                 s = summarize_flight(f, dep, ret, cfg["currency"])
                 if s:
@@ -194,21 +264,48 @@ def make_trend_chart():
     return buf.getvalue()
 
 
-def build_email_html(top_offers, trends, has_chart):
-    rows = ""
-    for i, o in enumerate(top_offers, 1):
-        url = google_flights_url(cfg["origin"], cfg["destination"],
-                                 o["depart_date"], o["return_date"])
-        rows += f"""
+def build_email_html(top_by_trip, trends, has_chart):
+    tables_html = ""
+    for trip in cfg["trips"]:
+        trip_name = trip["name"]
+        offers = top_by_trip.get(trip_name, [])
+        depart_range = (f"{trip['depart_start']} to {trip['depart_end']}"
+                        if trip["depart_start"] != trip["depart_end"]
+                        else trip["depart_start"])
+        return_range = (f"{trip['return_start']} to {trip['return_end']}"
+                        if trip["return_start"] != trip["return_end"]
+                        else trip["return_start"])
+        date_summary = f"depart {depart_range}, return {return_range}"
+
+        if not offers:
+            tables_html += (
+                f'<h3>{trip_name} <span style="color:#777;font-weight:normal">'
+                f'({date_summary})</span></h3>'
+                f'<p style="color:#777">No flights found for this trip.</p>'
+            )
+            continue
+
+        rows = ""
+        for i, o in enumerate(offers, 1):
+            url = google_flights_url(cfg["origin"], cfg["destination"],
+                                     o["depart_date"], o["return_date"])
+            rows += f"""
         <tr>
           <td>{i}</td>
-          <td><b>{o['currency']} {o['price']:.2f}</b></td>
-          <td>{o['trip_name']}</td>
-          <td><a href="{url}">{o['depart_date']} -&gt; {o['return_date']}</a></td>
+          <td><a href="{url}"><b>{o['currency']} {o['price']:.2f}</b></a></td>
           <td>{o['airlines']}</td>
           <td>{o['stops']}</td>
           <td>{o['duration']}</td>
         </tr>"""
+
+        tables_html += f"""
+    <h3>{trip_name} <span style="color:#777;font-weight:normal">({date_summary})</span></h3>
+    <table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse">
+      <tr style="background:#f0f0f0">
+        <th>#</th><th>Price</th><th>Airline(s)</th><th>Stops</th><th>Duration</th>
+      </tr>
+      {rows}
+    </table>"""
 
     trend_html = "<h3>Week-over-week trends</h3><ul>"
     for trip_name, t in trends.items():
@@ -233,17 +330,12 @@ def build_email_html(top_offers, trends, has_chart):
     <html><body style="font-family:Arial,sans-serif">
     <h2>Top {cfg['top_n']} cheapest: {cfg['origin']} -> {cfg['destination']}</h2>
     <p>Run: {date.today().isoformat()}</p>
-    <table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse">
-      <tr style="background:#f0f0f0">
-        <th>#</th><th>Price</th><th>Trip</th><th>Dates</th>
-        <th>Airline(s)</th><th>Stops</th><th>Duration</th>
-      </tr>
-      {rows}
-    </table>
+    {tables_html}
     {trend_html}
     {chart_html}
     <p style="color:#777;font-size:12px">
       Source: Google Flights via fast-flights. Edit config.json to change route or dates.
+      Click a price to open that route's Google Flights search.
     </p>
     </body></html>
     """
@@ -281,8 +373,14 @@ def main():
                    f"Flight agent: no results {date.today()}", None)
         return
 
-    top = sorted(offers, key=lambda x: x["price"])[: cfg["top_n"]]
-    html = build_email_html(top, trends, chart_png is not None)
+    by_trip = {}
+    for o in offers:
+        by_trip.setdefault(o["trip_name"], []).append(o)
+    top_by_trip = {
+        name: sorted(group, key=lambda x: x["price"])[: cfg["top_n"]]
+        for name, group in by_trip.items()
+    }
+    html = build_email_html(top_by_trip, trends, chart_png is not None)
     subject = (f"Top {cfg['top_n']} cheapest {cfg['origin']}->{cfg['destination']} "
                f"flights - {date.today().isoformat()}")
     send_email(html, subject, chart_png)

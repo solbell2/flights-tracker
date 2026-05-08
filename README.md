@@ -46,6 +46,13 @@ Configure these in **Settings -> Secrets and variables -> Actions**:
 - `GMAIL_APP_PASSWORD` — a 16-character Gmail app password (not your normal
   Gmail password). Requires 2-Factor Auth on the account; generate one at
   <https://myaccount.google.com/apppasswords>.
+- `RECIPIENTS` — comma-separated list of email addresses to send the report
+  to (e.g. `a@example.com,b@example.com`). Each recipient is BCC'd.
+- `SERPAPI_KEY` *(optional but recommended)* — SerpAPI key used as a fallback
+  when fast-flights fails or returns no flights for a date pair. Get one at
+  <https://serpapi.com/>. Free tier is 100 searches/month, which fits this
+  agent's usage so long as you don't expand `config.json`'s date matrix
+  significantly.
 
 ## Run locally
 
