@@ -1,0 +1,26 @@
+{
+  "origin": "SEA",
+  "destination": "XIY",
+  "currency": "USD",
+  "adults": 1,
+  "top_n": 5,
+  "trips": [
+    {
+      "name": "Fall trip",
+      "depart_start": "2026-09-05",
+      "depart_end": "2026-09-07",
+      "return_start": "2026-09-18",
+      "return_end": "2026-09-20"
+    },
+    {
+      "name": "Winter trip",
+      "depart_start": "2026-12-19",
+      "depart_end": "2026-12-22",
+      "return_start": "2027-01-01",
+      "return_end": "2027-01-03"
+    }
+  ],
+  "recipients": [
+    "replace-me@example.com"
+  ]
+}
