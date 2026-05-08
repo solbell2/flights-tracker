@@ -21,6 +21,6 @@
     }
   ],
   "recipients": [
-    "replace-me@example.com"
+    "set-via-RECIPIENTS-env-var"
   ]
 }

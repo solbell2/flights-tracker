@@ -1,0 +1,2 @@
+run_timestamp,origin,destination,trip_name,currency,n_offers,min_price,median_price,mean_price,max_price
+2026-05-08T15:43:03,SEA,XIY,Fall trip,USD,841,886.0,2691.0,3230.81,20375.0

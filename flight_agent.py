@@ -8,6 +8,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from itertools import product
 from pathlib import Path
+from urllib.parse import quote_plus
 
 import matplotlib
 matplotlib.use("Agg")
@@ -20,6 +21,10 @@ with open("config.json") as f:
 
 GMAIL_USER = os.environ["GMAIL_USER"]
 GMAIL_APP_PW = os.environ["GMAIL_APP_PASSWORD"]
+
+_env_recipients = os.environ.get("RECIPIENTS", "").strip()
+if _env_recipients:
+    cfg["recipients"] = [r.strip() for r in _env_recipients.split(",") if r.strip()]
 
 HISTORY_DIR = Path("history")
 HISTORY_DIR.mkdir(exist_ok=True)
@@ -45,7 +50,7 @@ def search_fast_flights(origin, destination, depart, ret, adults):
             seat="economy",
             passengers=Passengers(adults=adults, children=0, infants_in_seat=0,
                                   infants_on_lap=0),
-            fetch_mode="fallback",
+            fetch_mode="local",
         )
         return result.flights or []
     except Exception as e:
@@ -61,6 +66,11 @@ def parse_price(price_str):
         return float(cleaned)
     except ValueError:
         return None
+
+
+def google_flights_url(origin, destination, depart, ret):
+    q = f"Flights from {origin} to {destination} on {depart} through {ret}"
+    return f"https://www.google.com/travel/flights?q={quote_plus(q)}"
 
 
 def summarize_flight(f, depart, ret, currency):
@@ -187,12 +197,14 @@ def make_trend_chart():
 def build_email_html(top_offers, trends, has_chart):
     rows = ""
     for i, o in enumerate(top_offers, 1):
+        url = google_flights_url(cfg["origin"], cfg["destination"],
+                                 o["depart_date"], o["return_date"])
         rows += f"""
         <tr>
           <td>{i}</td>
           <td><b>{o['currency']} {o['price']:.2f}</b></td>
           <td>{o['trip_name']}</td>
-          <td>{o['depart_date']} -> {o['return_date']}</td>
+          <td><a href="{url}">{o['depart_date']} -&gt; {o['return_date']}</a></td>
           <td>{o['airlines']}</td>
           <td>{o['stops']}</td>
           <td>{o['duration']}</td>
@@ -241,7 +253,7 @@ def send_email(html_body, subject, chart_png):
     msg = MIMEMultipart("related")
     msg["Subject"] = subject
     msg["From"] = GMAIL_USER
-    msg["To"] = ", ".join(cfg["recipients"])
+    msg["To"] = GMAIL_USER
     alt = MIMEMultipart("alternative")
     msg.attach(alt)
     alt.attach(MIMEText(html_body, "html"))

@@ -2,7 +2,8 @@ name: Weekly Flight Price Check
 
 on:
   schedule:
-    - cron: "0 14 * * 1"
+    # Saturday 16:00 UTC = 9:00 AM PDT (8:00 AM PST in winter; cron does not observe DST).
+    - cron: "0 16 * * 6"
   workflow_dispatch:
 
 permissions:
@@ -28,6 +29,7 @@ jobs:
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENTS: ${{ secrets.RECIPIENTS }}
         run: python flight_agent.py
 
       - name: Commit history
