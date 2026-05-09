@@ -41,7 +41,7 @@ Open [config.json](config.json) and edit:
 
 ## Schedule
 
-Runs every Saturday at 16:00 UTC (9:00 AM PDT / 8:00 AM PST) via
+Runs every Saturday at 16:23 UTC (9:23 AM PDT / 8:23 AM PST) via
 [`.github/workflows/weekly.yml`](.github/workflows/weekly.yml). GitHub
 Actions cron does not observe DST, so the local time shifts by one hour
 between the summer and winter halves of the year. You can also trigger a

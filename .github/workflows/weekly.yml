@@ -2,8 +2,8 @@ name: Weekly Flight Price Check
 
 on:
   schedule:
-    # Saturday 16:00 UTC = 9:00 AM PDT (8:00 AM PST in winter; cron does not observe DST).
-    - cron: "0 16 * * 6"
+    # Saturday 16:23 UTC = 9:23 AM PDT (8:23 AM PST in winter; cron does not observe DST).
+    - cron: "23 16 * * 6"
   workflow_dispatch:
 
 permissions:
