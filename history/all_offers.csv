@@ -3698,3 +3698,921 @@ run_timestamp,origin,destination,price,currency,depart_date,return_date,airlines
 2026-05-09T16:51:55,SEA,XIY,4196.0,USD,2026-12-20,2027-01-02,Air Canada / Air Canada / China Southern,2,24 hr 15 min,Winter trip
 2026-05-09T16:51:55,SEA,XIY,4206.0,USD,2026-12-20,2027-01-02,EVA Air / EVA Air / Cathay Pacific,2,22 hr 30 min,Winter trip
 2026-05-09T16:51:55,SEA,XIY,6378.0,USD,2026-12-20,2027-01-02,United / United / Air China,2,23 hr 28 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,981.0,USD,2026-09-05,2026-09-18,Asiana Airlines,1,21 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1086.0,USD,2026-09-05,2026-09-18,"Korean Air, Asiana Airlines",1,32 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1086.0,USD,2026-09-05,2026-09-18,"Delta, Asiana Airlines",1,32 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1178.0,USD,2026-09-05,2026-09-18,Hainan,1,22 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1306.0,USD,2026-09-05,2026-09-18,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1178.0,USD,2026-09-05,2026-09-18,Hainan,1,31 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1178.0,USD,2026-09-05,2026-09-18,Hainan,1,35 hr 25 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1290.0,USD,2026-09-05,2026-09-18,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1292.0,USD,2026-09-05,2026-09-18,"Alaska, Asiana Airlines",1,31 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1319.0,USD,2026-09-05,2026-09-18,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1496.0,USD,2026-09-05,2026-09-18,Cathay Pacific,1,35 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1560.0,USD,2026-09-05,2026-09-18,"Alaska, Asiana Airlines",2,27 hr 9 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1581.0,USD,2026-09-05,2026-09-18,"Alaska, China Southern",2,26 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1581.0,USD,2026-09-05,2026-09-18,"Alaska, China Southern",2,25 hr 26 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1661.0,USD,2026-09-05,2026-09-18,"Asiana Airlines, Korean Air",1,20 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1706.0,USD,2026-09-05,2026-09-18,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1711.0,USD,2026-09-05,2026-09-18,"Delta, Korean Air",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1711.0,USD,2026-09-05,2026-09-18,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1792.0,USD,2026-09-05,2026-09-18,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1794.0,USD,2026-09-05,2026-09-18,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1794.0,USD,2026-09-05,2026-09-18,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1820.0,USD,2026-09-05,2026-09-18,"Asiana Airlines, Korean Air",1,44 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1860.0,USD,2026-09-05,2026-09-18,"Alaska, Asiana Airlines",2,26 hr 1 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1894.0,USD,2026-09-05,2026-09-18,"Alaska, Cathay Pacific",2,34 hr 3 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-05,2026-09-18,"EVA Air, Shenzhen",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-05,2026-09-18,"EVA Air, Shenzhen",2,44 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2399.0,USD,2026-09-05,2026-09-18,"Hainan, China Southern",1,20 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2399.0,USD,2026-09-05,2026-09-18,"Hainan, China Southern",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-05,2026-09-18,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-05,2026-09-18,"EVA Air, China Southern",2,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-05,2026-09-18,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-05,2026-09-18,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-05,2026-09-18,"Air Canada, Air China",2,35 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-05,2026-09-18,"EVA Air, XiamenAir",2,25 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-05,2026-09-18,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2834.0,USD,2026-09-05,2026-09-18,"EVA Air, China Southern",2,26 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3222.0,USD,2026-09-05,2026-09-18,"EVA Air, Hainan",2,54 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-05,2026-09-18,"United, Air China",2,24 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-05,2026-09-18,"United, Air China",2,38 hr 41 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3484.0,USD,2026-09-05,2026-09-18,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5626.0,USD,2026-09-05,2026-09-18,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6349.0,USD,2026-09-05,2026-09-18,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6351.0,USD,2026-09-05,2026-09-18,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9543.0,USD,2026-09-05,2026-09-18,"Lufthansa, Air China",2,30 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-05,2026-09-18,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-05,2026-09-18,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,981.0,USD,2026-09-05,2026-09-18,Asiana Airlines,1,21 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1086.0,USD,2026-09-05,2026-09-18,"Korean Air, Asiana Airlines",1,32 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1086.0,USD,2026-09-05,2026-09-18,"Delta, Asiana Airlines",1,32 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1178.0,USD,2026-09-05,2026-09-18,Hainan,1,22 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1178.0,USD,2026-09-05,2026-09-18,Hainan,1,31 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1178.0,USD,2026-09-05,2026-09-18,Hainan,1,35 hr 25 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1290.0,USD,2026-09-05,2026-09-18,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1292.0,USD,2026-09-05,2026-09-18,"Alaska, Asiana Airlines",1,31 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1319.0,USD,2026-09-05,2026-09-18,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1496.0,USD,2026-09-05,2026-09-18,Cathay Pacific,1,35 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1560.0,USD,2026-09-05,2026-09-18,"Alaska, Asiana Airlines",2,27 hr 9 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1581.0,USD,2026-09-05,2026-09-18,"Alaska, China Southern",2,26 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1581.0,USD,2026-09-05,2026-09-18,"Alaska, China Southern",2,25 hr 26 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1661.0,USD,2026-09-05,2026-09-18,"Asiana Airlines, Korean Air",1,20 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1706.0,USD,2026-09-05,2026-09-18,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1711.0,USD,2026-09-05,2026-09-18,"Delta, Korean Air",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1711.0,USD,2026-09-05,2026-09-18,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1792.0,USD,2026-09-05,2026-09-18,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1794.0,USD,2026-09-05,2026-09-18,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1794.0,USD,2026-09-05,2026-09-18,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1820.0,USD,2026-09-05,2026-09-18,"Asiana Airlines, Korean Air",1,44 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1860.0,USD,2026-09-05,2026-09-18,"Alaska, Asiana Airlines",2,26 hr 1 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1894.0,USD,2026-09-05,2026-09-18,"Alaska, Cathay Pacific",2,34 hr 3 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-05,2026-09-18,"EVA Air, Shenzhen",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-05,2026-09-18,"EVA Air, Shenzhen",2,44 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2399.0,USD,2026-09-05,2026-09-18,"Hainan, China Southern",1,20 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2399.0,USD,2026-09-05,2026-09-18,"Hainan, China Southern",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-05,2026-09-18,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-05,2026-09-18,"EVA Air, China Southern",2,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-05,2026-09-18,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-05,2026-09-18,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-05,2026-09-18,"Air Canada, Air China",2,35 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-05,2026-09-18,"EVA Air, XiamenAir",2,25 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-05,2026-09-18,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2834.0,USD,2026-09-05,2026-09-18,"EVA Air, China Southern",2,26 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3222.0,USD,2026-09-05,2026-09-18,"EVA Air, Hainan",2,54 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-05,2026-09-18,"United, Air China",2,24 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-05,2026-09-18,"United, Air China",2,38 hr 41 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3484.0,USD,2026-09-05,2026-09-18,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5626.0,USD,2026-09-05,2026-09-18,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6349.0,USD,2026-09-05,2026-09-18,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6351.0,USD,2026-09-05,2026-09-18,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9543.0,USD,2026-09-05,2026-09-18,"Lufthansa, Air China",2,30 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-05,2026-09-18,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-05,2026-09-18,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1369.0,USD,2026-09-05,2026-09-19,"Alaska, Asiana Airlines",1,31 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1436.0,USD,2026-09-05,2026-09-19,"Delta, Asiana Airlines",1,32 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1531.0,USD,2026-09-05,2026-09-19,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1571.0,USD,2026-09-05,2026-09-19,"Alaska, China Southern",2,25 hr 26 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1436.0,USD,2026-09-05,2026-09-19,"Korean Air, Asiana Airlines",1,32 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1571.0,USD,2026-09-05,2026-09-19,"Alaska, China Southern",2,26 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1661.0,USD,2026-09-05,2026-09-19,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1771.0,USD,2026-09-05,2026-09-19,Asiana Airlines,1,21 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2036.0,USD,2026-09-05,2026-09-19,"Delta, Korean Air",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2036.0,USD,2026-09-05,2026-09-19,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2056.0,USD,2026-09-05,2026-09-19,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2076.0,USD,2026-09-05,2026-09-19,"Asiana Airlines, Korean Air",1,20 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2142.0,USD,2026-09-05,2026-09-19,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-05,2026-09-19,"EVA Air, Shenzhen",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-05,2026-09-19,"EVA Air, Shenzhen",2,44 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2325.0,USD,2026-09-05,2026-09-19,"Alaska, Asiana Airlines",2,27 hr 9 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2585.0,USD,2026-09-05,2026-09-19,"Asiana Airlines, Korean Air",1,44 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-05,2026-09-19,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2625.0,USD,2026-09-05,2026-09-19,"Alaska, Asiana Airlines",2,26 hr 1 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2626.0,USD,2026-09-05,2026-09-19,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2626.0,USD,2026-09-05,2026-09-19,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-05,2026-09-19,"EVA Air, China Southern",2,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-05,2026-09-19,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-05,2026-09-19,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-05,2026-09-19,"Air Canada, Air China",2,35 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2742.0,USD,2026-09-05,2026-09-19,Cathay Pacific,1,35 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-05,2026-09-19,"EVA Air, XiamenAir",2,25 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-05,2026-09-19,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2799.0,USD,2026-09-05,2026-09-19,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2822.0,USD,2026-09-05,2026-09-19,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2835.0,USD,2026-09-05,2026-09-19,"EVA Air, China Southern",2,26 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2952.0,USD,2026-09-05,2026-09-19,Hainan,1,22 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2952.0,USD,2026-09-05,2026-09-19,Hainan,1,31 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2952.0,USD,2026-09-05,2026-09-19,Hainan,1,35 hr 25 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3021.0,USD,2026-09-05,2026-09-19,"EVA Air, Hainan",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3021.0,USD,2026-09-05,2026-09-19,"EVA Air, Hainan",2,30 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3171.0,USD,2026-09-05,2026-09-19,"Alaska, Cathay Pacific",2,34 hr 3 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3205.0,USD,2026-09-05,2026-09-19,"EVA Air, Shenzhen",2,30 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3222.0,USD,2026-09-05,2026-09-19,"EVA Air, Hainan",2,54 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-05,2026-09-19,"United, Air China",2,24 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-05,2026-09-19,"United, Air China",2,38 hr 41 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3484.0,USD,2026-09-05,2026-09-19,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5426.0,USD,2026-09-05,2026-09-19,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5661.0,USD,2026-09-05,2026-09-19,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9543.0,USD,2026-09-05,2026-09-19,"Lufthansa, Air China",2,30 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-05,2026-09-19,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-05,2026-09-19,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1369.0,USD,2026-09-05,2026-09-19,"Alaska, Asiana Airlines",1,31 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1436.0,USD,2026-09-05,2026-09-19,"Delta, Asiana Airlines",1,32 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1531.0,USD,2026-09-05,2026-09-19,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1436.0,USD,2026-09-05,2026-09-19,"Korean Air, Asiana Airlines",1,32 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1571.0,USD,2026-09-05,2026-09-19,"Alaska, China Southern",2,26 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1661.0,USD,2026-09-05,2026-09-19,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1771.0,USD,2026-09-05,2026-09-19,Asiana Airlines,1,21 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2036.0,USD,2026-09-05,2026-09-19,"Delta, Korean Air",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2036.0,USD,2026-09-05,2026-09-19,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2056.0,USD,2026-09-05,2026-09-19,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2076.0,USD,2026-09-05,2026-09-19,"Asiana Airlines, Korean Air",1,20 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2142.0,USD,2026-09-05,2026-09-19,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-05,2026-09-19,"EVA Air, Shenzhen",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-05,2026-09-19,"EVA Air, Shenzhen",2,44 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2325.0,USD,2026-09-05,2026-09-19,"Alaska, Asiana Airlines",2,27 hr 9 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2585.0,USD,2026-09-05,2026-09-19,"Asiana Airlines, Korean Air",1,44 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-05,2026-09-19,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2625.0,USD,2026-09-05,2026-09-19,"Alaska, Asiana Airlines",2,26 hr 1 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2626.0,USD,2026-09-05,2026-09-19,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2626.0,USD,2026-09-05,2026-09-19,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-05,2026-09-19,"EVA Air, China Southern",2,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-05,2026-09-19,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-05,2026-09-19,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-05,2026-09-19,"Air Canada, Air China",2,35 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2742.0,USD,2026-09-05,2026-09-19,Cathay Pacific,1,35 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-05,2026-09-19,"EVA Air, XiamenAir",2,25 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-05,2026-09-19,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2799.0,USD,2026-09-05,2026-09-19,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2822.0,USD,2026-09-05,2026-09-19,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2835.0,USD,2026-09-05,2026-09-19,"EVA Air, China Southern",2,26 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2952.0,USD,2026-09-05,2026-09-19,Hainan,1,22 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2952.0,USD,2026-09-05,2026-09-19,Hainan,1,31 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2952.0,USD,2026-09-05,2026-09-19,Hainan,1,35 hr 25 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3021.0,USD,2026-09-05,2026-09-19,"EVA Air, Hainan",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3021.0,USD,2026-09-05,2026-09-19,"EVA Air, Hainan",2,30 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3171.0,USD,2026-09-05,2026-09-19,"Alaska, Cathay Pacific",2,34 hr 3 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3205.0,USD,2026-09-05,2026-09-19,"EVA Air, Shenzhen",2,30 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3222.0,USD,2026-09-05,2026-09-19,"EVA Air, Hainan",2,54 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-05,2026-09-19,"United, Air China",2,24 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-05,2026-09-19,"United, Air China",2,38 hr 41 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3484.0,USD,2026-09-05,2026-09-19,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5426.0,USD,2026-09-05,2026-09-19,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5661.0,USD,2026-09-05,2026-09-19,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9543.0,USD,2026-09-05,2026-09-19,"Lufthansa, Air China",2,30 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-05,2026-09-19,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-05,2026-09-19,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,934.0,USD,2026-09-05,2026-09-20,Asiana Airlines,1,21 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1036.0,USD,2026-09-05,2026-09-20,"Korean Air, Asiana Airlines",1,32 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1036.0,USD,2026-09-05,2026-09-20,"Delta, Asiana Airlines",1,32 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1240.0,USD,2026-09-05,2026-09-20,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1256.0,USD,2026-09-05,2026-09-20,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1261.0,USD,2026-09-05,2026-09-20,"Asiana Airlines, Korean Air",1,20 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1371.0,USD,2026-09-05,2026-09-20,Cathay Pacific,1,35 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1396.0,USD,2026-09-05,2026-09-20,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1410.0,USD,2026-09-05,2026-09-20,Hainan,1,22 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1410.0,USD,2026-09-05,2026-09-20,Hainan,1,31 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1410.0,USD,2026-09-05,2026-09-20,Hainan,1,35 hr 25 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1511.0,USD,2026-09-05,2026-09-20,"Alaska, Asiana Airlines",2,27 hr 9 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1562.0,USD,2026-09-05,2026-09-20,"Alaska, China Southern",2,26 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1562.0,USD,2026-09-05,2026-09-20,"Alaska, China Southern",2,25 hr 26 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1642.0,USD,2026-09-05,2026-09-20,"Alaska, Asiana Airlines",1,31 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1656.0,USD,2026-09-05,2026-09-20,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1661.0,USD,2026-09-05,2026-09-20,"Delta, Korean Air",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1661.0,USD,2026-09-05,2026-09-20,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1746.0,USD,2026-09-05,2026-09-20,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1746.0,USD,2026-09-05,2026-09-20,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1769.0,USD,2026-09-05,2026-09-20,"Alaska, Cathay Pacific",2,34 hr 3 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1771.0,USD,2026-09-05,2026-09-20,"Asiana Airlines, Korean Air",1,44 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1811.0,USD,2026-09-05,2026-09-20,"Alaska, Asiana Airlines",2,26 hr 1 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2142.0,USD,2026-09-05,2026-09-20,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-05,2026-09-20,"EVA Air, Shenzhen",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-05,2026-09-20,"EVA Air, Shenzhen",2,44 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-05,2026-09-20,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-05,2026-09-20,"EVA Air, China Southern",2,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2739.0,USD,2026-09-05,2026-09-20,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2739.0,USD,2026-09-05,2026-09-20,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2739.0,USD,2026-09-05,2026-09-20,"Air Canada, Air China",2,35 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-05,2026-09-20,"EVA Air, XiamenAir",2,25 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-05,2026-09-20,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2835.0,USD,2026-09-05,2026-09-20,"EVA Air, China Southern",2,26 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2969.0,USD,2026-09-05,2026-09-20,"EVA Air, Hainan",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2969.0,USD,2026-09-05,2026-09-20,"EVA Air, Hainan",2,30 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3153.0,USD,2026-09-05,2026-09-20,"EVA Air, Shenzhen",2,30 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3222.0,USD,2026-09-05,2026-09-20,"EVA Air, Hainan",2,54 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-05,2026-09-20,"United, Air China",2,24 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-05,2026-09-20,"United, Air China",2,38 hr 41 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3484.0,USD,2026-09-05,2026-09-20,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5626.0,USD,2026-09-05,2026-09-20,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9543.0,USD,2026-09-05,2026-09-20,"Lufthansa, Air China",2,30 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-05,2026-09-20,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-05,2026-09-20,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,934.0,USD,2026-09-05,2026-09-20,Asiana Airlines,1,21 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1036.0,USD,2026-09-05,2026-09-20,"Korean Air, Asiana Airlines",1,32 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1036.0,USD,2026-09-05,2026-09-20,"Delta, Asiana Airlines",1,32 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1240.0,USD,2026-09-05,2026-09-20,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1261.0,USD,2026-09-05,2026-09-20,"Asiana Airlines, Korean Air",1,20 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1371.0,USD,2026-09-05,2026-09-20,Cathay Pacific,1,35 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1396.0,USD,2026-09-05,2026-09-20,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1410.0,USD,2026-09-05,2026-09-20,Hainan,1,22 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1410.0,USD,2026-09-05,2026-09-20,Hainan,1,31 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1410.0,USD,2026-09-05,2026-09-20,Hainan,1,35 hr 25 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1511.0,USD,2026-09-05,2026-09-20,"Alaska, Asiana Airlines",2,27 hr 9 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1562.0,USD,2026-09-05,2026-09-20,"Alaska, China Southern",2,26 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1562.0,USD,2026-09-05,2026-09-20,"Alaska, China Southern",2,25 hr 26 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1642.0,USD,2026-09-05,2026-09-20,"Alaska, Asiana Airlines",1,31 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1656.0,USD,2026-09-05,2026-09-20,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1661.0,USD,2026-09-05,2026-09-20,"Delta, Korean Air",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1661.0,USD,2026-09-05,2026-09-20,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1746.0,USD,2026-09-05,2026-09-20,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1746.0,USD,2026-09-05,2026-09-20,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1769.0,USD,2026-09-05,2026-09-20,"Alaska, Cathay Pacific",2,34 hr 3 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1771.0,USD,2026-09-05,2026-09-20,"Asiana Airlines, Korean Air",1,44 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1811.0,USD,2026-09-05,2026-09-20,"Alaska, Asiana Airlines",2,26 hr 1 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2142.0,USD,2026-09-05,2026-09-20,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-05,2026-09-20,"EVA Air, Shenzhen",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-05,2026-09-20,"EVA Air, Shenzhen",2,44 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-05,2026-09-20,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-05,2026-09-20,"EVA Air, China Southern",2,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2739.0,USD,2026-09-05,2026-09-20,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2739.0,USD,2026-09-05,2026-09-20,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2739.0,USD,2026-09-05,2026-09-20,"Air Canada, Air China",2,35 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-05,2026-09-20,"EVA Air, XiamenAir",2,25 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-05,2026-09-20,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2835.0,USD,2026-09-05,2026-09-20,"EVA Air, China Southern",2,26 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2969.0,USD,2026-09-05,2026-09-20,"EVA Air, Hainan",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2969.0,USD,2026-09-05,2026-09-20,"EVA Air, Hainan",2,30 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3153.0,USD,2026-09-05,2026-09-20,"EVA Air, Shenzhen",2,30 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3222.0,USD,2026-09-05,2026-09-20,"EVA Air, Hainan",2,54 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-05,2026-09-20,"United, Air China",2,24 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-05,2026-09-20,"United, Air China",2,38 hr 41 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3484.0,USD,2026-09-05,2026-09-20,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5626.0,USD,2026-09-05,2026-09-20,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9543.0,USD,2026-09-05,2026-09-20,"Lufthansa, Air China",2,30 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-05,2026-09-20,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-05,2026-09-20,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1036.0,USD,2026-09-06,2026-09-18,"Korean Air, Asiana Airlines",1,32 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1036.0,USD,2026-09-06,2026-09-18,"Delta, Asiana Airlines",1,32 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1261.0,USD,2026-09-06,2026-09-18,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1240.0,USD,2026-09-06,2026-09-18,"Alaska, Korean Air",2,26 hr 29 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1240.0,USD,2026-09-06,2026-09-18,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1240.0,USD,2026-09-06,2026-09-18,"Alaska, Korean Air",2,25 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1256.0,USD,2026-09-06,2026-09-18,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1256.0,USD,2026-09-06,2026-09-18,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1261.0,USD,2026-09-06,2026-09-18,"Delta, Korean Air",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1269.0,USD,2026-09-06,2026-09-18,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1292.0,USD,2026-09-06,2026-09-18,"Alaska, Asiana Airlines",1,31 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1417.0,USD,2026-09-06,2026-09-18,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1510.0,USD,2026-09-06,2026-09-18,"Alaska, Asiana Airlines",2,29 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1510.0,USD,2026-09-06,2026-09-18,"Alaska, Asiana Airlines",2,28 hr 11 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1510.0,USD,2026-09-06,2026-09-18,"Alaska, Asiana Airlines",2,27 hr 9 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1521.0,USD,2026-09-06,2026-09-18,"Alaska, Cathay Pacific",2,36 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1571.0,USD,2026-09-06,2026-09-18,"Alaska, Cathay Pacific",2,36 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1689.0,USD,2026-09-06,2026-09-18,"Alaska, China Southern",2,27 hr 36 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1810.0,USD,2026-09-06,2026-09-18,"Alaska, Asiana Airlines",2,27 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1810.0,USD,2026-09-06,2026-09-18,"Alaska, Asiana Airlines",2,26 hr 1 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-06,2026-09-18,"EVA Air, Shenzhen",2,29 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-06,2026-09-18,"EVA Air, Shenzhen",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2391.0,USD,2026-09-06,2026-09-18,"EVA Air, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2391.0,USD,2026-09-06,2026-09-18,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2567.0,USD,2026-09-06,2026-09-18,"EVA Air, STARLUX Airlines, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2567.0,USD,2026-09-06,2026-09-18,"EVA Air, STARLUX Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-06,2026-09-18,"EVA Air, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-06,2026-09-18,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-06,2026-09-18,"EVA Air, China Southern",2,28 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-06,2026-09-18,"EVA Air, China Southern",2,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-06,2026-09-18,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-06,2026-09-18,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-06,2026-09-18,"Air Canada, Air China",2,35 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-18,"EVA Air, XiamenAir",2,26 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-18,"EVA Air, XiamenAir",2,28 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-18,"EVA Air, XiamenAir",2,25 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-18,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2814.0,USD,2026-09-06,2026-09-18,"United, Korean Air",2,27 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2862.0,USD,2026-09-06,2026-09-18,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3361.0,USD,2026-09-06,2026-09-18,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3361.0,USD,2026-09-06,2026-09-18,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3434.0,USD,2026-09-06,2026-09-18,"United, Air China",2,39 hr 45 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3434.0,USD,2026-09-06,2026-09-18,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-06,2026-09-18,"United, Air China",2,24 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3653.0,USD,2026-09-06,2026-09-18,"Air Canada, Cathay Pacific",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4454.0,USD,2026-09-06,2026-09-18,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4454.0,USD,2026-09-06,2026-09-18,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4587.0,USD,2026-09-06,2026-09-18,"Alaska, China Airlines, Cathay Pacific",3,24 hr 31 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5329.0,USD,2026-09-06,2026-09-18,"Alaska, China Airlines, Cathay Pacific",3,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5626.0,USD,2026-09-06,2026-09-18,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6349.0,USD,2026-09-06,2026-09-18,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6351.0,USD,2026-09-06,2026-09-18,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9543.0,USD,2026-09-06,2026-09-18,"Lufthansa, Air China",2,30 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-06,2026-09-18,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-06,2026-09-18,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,11404.0,USD,2026-09-06,2026-09-18,"China Airlines, China Southern",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1036.0,USD,2026-09-06,2026-09-18,"Korean Air, Asiana Airlines",1,32 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1036.0,USD,2026-09-06,2026-09-18,"Delta, Asiana Airlines",1,32 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1240.0,USD,2026-09-06,2026-09-18,"Alaska, Korean Air",2,26 hr 29 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1240.0,USD,2026-09-06,2026-09-18,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1240.0,USD,2026-09-06,2026-09-18,"Alaska, Korean Air",2,25 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1256.0,USD,2026-09-06,2026-09-18,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1256.0,USD,2026-09-06,2026-09-18,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1261.0,USD,2026-09-06,2026-09-18,"Delta, Korean Air",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1269.0,USD,2026-09-06,2026-09-18,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1292.0,USD,2026-09-06,2026-09-18,"Alaska, Asiana Airlines",1,31 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1417.0,USD,2026-09-06,2026-09-18,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1510.0,USD,2026-09-06,2026-09-18,"Alaska, Asiana Airlines",2,29 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1510.0,USD,2026-09-06,2026-09-18,"Alaska, Asiana Airlines",2,28 hr 11 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1510.0,USD,2026-09-06,2026-09-18,"Alaska, Asiana Airlines",2,27 hr 9 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1521.0,USD,2026-09-06,2026-09-18,"Alaska, Cathay Pacific",2,36 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1571.0,USD,2026-09-06,2026-09-18,"Alaska, Cathay Pacific",2,36 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1689.0,USD,2026-09-06,2026-09-18,"Alaska, China Southern",2,27 hr 36 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1810.0,USD,2026-09-06,2026-09-18,"Alaska, Asiana Airlines",2,27 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1810.0,USD,2026-09-06,2026-09-18,"Alaska, Asiana Airlines",2,26 hr 1 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-06,2026-09-18,"EVA Air, Shenzhen",2,29 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-06,2026-09-18,"EVA Air, Shenzhen",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2391.0,USD,2026-09-06,2026-09-18,"EVA Air, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2391.0,USD,2026-09-06,2026-09-18,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2567.0,USD,2026-09-06,2026-09-18,"EVA Air, STARLUX Airlines, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2567.0,USD,2026-09-06,2026-09-18,"EVA Air, STARLUX Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-06,2026-09-18,"EVA Air, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-06,2026-09-18,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-06,2026-09-18,"EVA Air, China Southern",2,28 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-06,2026-09-18,"EVA Air, China Southern",2,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-06,2026-09-18,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-06,2026-09-18,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-06,2026-09-18,"Air Canada, Air China",2,35 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-18,"EVA Air, XiamenAir",2,26 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-18,"EVA Air, XiamenAir",2,28 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-18,"EVA Air, XiamenAir",2,25 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-18,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2814.0,USD,2026-09-06,2026-09-18,"United, Korean Air",2,27 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2862.0,USD,2026-09-06,2026-09-18,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3361.0,USD,2026-09-06,2026-09-18,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3361.0,USD,2026-09-06,2026-09-18,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3434.0,USD,2026-09-06,2026-09-18,"United, Air China",2,39 hr 45 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3434.0,USD,2026-09-06,2026-09-18,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-06,2026-09-18,"United, Air China",2,24 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3653.0,USD,2026-09-06,2026-09-18,"Air Canada, Cathay Pacific",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4454.0,USD,2026-09-06,2026-09-18,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4454.0,USD,2026-09-06,2026-09-18,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4587.0,USD,2026-09-06,2026-09-18,"Alaska, China Airlines, Cathay Pacific",3,24 hr 31 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5329.0,USD,2026-09-06,2026-09-18,"Alaska, China Airlines, Cathay Pacific",3,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5626.0,USD,2026-09-06,2026-09-18,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6349.0,USD,2026-09-06,2026-09-18,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6351.0,USD,2026-09-06,2026-09-18,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9543.0,USD,2026-09-06,2026-09-18,"Lufthansa, Air China",2,30 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-06,2026-09-18,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-06,2026-09-18,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,11404.0,USD,2026-09-06,2026-09-18,"China Airlines, China Southern",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1369.0,USD,2026-09-06,2026-09-19,"Alaska, Asiana Airlines",1,31 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1386.0,USD,2026-09-06,2026-09-19,"Delta, Asiana Airlines",1,32 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1481.0,USD,2026-09-06,2026-09-19,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1386.0,USD,2026-09-06,2026-09-19,"Korean Air, Asiana Airlines",1,32 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1585.0,USD,2026-09-06,2026-09-19,"Alaska, Korean Air",2,26 hr 29 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1585.0,USD,2026-09-06,2026-09-19,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1585.0,USD,2026-09-06,2026-09-19,"Alaska, Korean Air",2,25 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1606.0,USD,2026-09-06,2026-09-19,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1686.0,USD,2026-09-06,2026-09-19,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1688.0,USD,2026-09-06,2026-09-19,"Alaska, China Southern",2,27 hr 36 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1767.0,USD,2026-09-06,2026-09-19,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1861.0,USD,2026-09-06,2026-09-19,"Delta, Korean Air",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-06,2026-09-19,"EVA Air, Shenzhen",2,29 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-06,2026-09-19,"EVA Air, Shenzhen",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2275.0,USD,2026-09-06,2026-09-19,"Alaska, Asiana Airlines",2,29 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2275.0,USD,2026-09-06,2026-09-19,"Alaska, Asiana Airlines",2,28 hr 11 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2275.0,USD,2026-09-06,2026-09-19,"Alaska, Asiana Airlines",2,27 hr 9 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2391.0,USD,2026-09-06,2026-09-19,"EVA Air, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2391.0,USD,2026-09-06,2026-09-19,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2547.0,USD,2026-09-06,2026-09-19,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2567.0,USD,2026-09-06,2026-09-19,"EVA Air, STARLUX Airlines, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2567.0,USD,2026-09-06,2026-09-19,"EVA Air, STARLUX Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2575.0,USD,2026-09-06,2026-09-19,"Alaska, Asiana Airlines",2,27 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2575.0,USD,2026-09-06,2026-09-19,"Alaska, Asiana Airlines",2,26 hr 1 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-06,2026-09-19,"EVA Air, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-06,2026-09-19,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2627.0,USD,2026-09-06,2026-09-19,"EVA Air, China Airlines, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2627.0,USD,2026-09-06,2026-09-19,"EVA Air, China Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-06,2026-09-19,"EVA Air, China Southern",2,28 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-06,2026-09-19,"EVA Air, China Southern",2,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-06,2026-09-19,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-06,2026-09-19,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-06,2026-09-19,"Air Canada, Air China",2,35 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-19,"EVA Air, XiamenAir",2,26 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-19,"EVA Air, XiamenAir",2,25 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-19,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2799.0,USD,2026-09-06,2026-09-19,"Alaska, Cathay Pacific",2,36 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2807.0,USD,2026-09-06,2026-09-19,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2814.0,USD,2026-09-06,2026-09-19,"United, Korean Air",2,27 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2849.0,USD,2026-09-06,2026-09-19,"Alaska, Cathay Pacific",2,36 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3434.0,USD,2026-09-06,2026-09-19,"United, Air China",2,39 hr 45 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3434.0,USD,2026-09-06,2026-09-19,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-06,2026-09-19,"United, Air China",2,24 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3602.0,USD,2026-09-06,2026-09-19,"Air Canada, Cathay Pacific",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4276.0,USD,2026-09-06,2026-09-19,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4276.0,USD,2026-09-06,2026-09-19,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4622.0,USD,2026-09-06,2026-09-19,"Alaska, China Airlines, Cathay Pacific",3,24 hr 31 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5426.0,USD,2026-09-06,2026-09-19,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5426.0,USD,2026-09-06,2026-09-19,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5661.0,USD,2026-09-06,2026-09-19,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6384.0,USD,2026-09-06,2026-09-19,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6386.0,USD,2026-09-06,2026-09-19,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6755.0,USD,2026-09-06,2026-09-19,"China Airlines, Cathay Pacific",2,45 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6958.0,USD,2026-09-06,2026-09-19,"Alaska, China Airlines, Cathay Pacific",3,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,7041.0,USD,2026-09-06,2026-09-19,"China Airlines, China Southern",2,29 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9543.0,USD,2026-09-06,2026-09-19,"Lufthansa, Air China",2,30 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-06,2026-09-19,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-06,2026-09-19,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,11439.0,USD,2026-09-06,2026-09-19,"China Airlines, China Southern",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1369.0,USD,2026-09-06,2026-09-19,"Alaska, Asiana Airlines",1,31 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1386.0,USD,2026-09-06,2026-09-19,"Delta, Asiana Airlines",1,32 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1386.0,USD,2026-09-06,2026-09-19,"Korean Air, Asiana Airlines",1,32 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1585.0,USD,2026-09-06,2026-09-19,"Alaska, Korean Air",2,26 hr 29 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1585.0,USD,2026-09-06,2026-09-19,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1585.0,USD,2026-09-06,2026-09-19,"Alaska, Korean Air",2,25 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1606.0,USD,2026-09-06,2026-09-19,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1686.0,USD,2026-09-06,2026-09-19,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1688.0,USD,2026-09-06,2026-09-19,"Alaska, China Southern",2,27 hr 36 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1767.0,USD,2026-09-06,2026-09-19,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1861.0,USD,2026-09-06,2026-09-19,"Delta, Korean Air",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-06,2026-09-19,"EVA Air, Shenzhen",2,29 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-06,2026-09-19,"EVA Air, Shenzhen",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2275.0,USD,2026-09-06,2026-09-19,"Alaska, Asiana Airlines",2,29 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2275.0,USD,2026-09-06,2026-09-19,"Alaska, Asiana Airlines",2,28 hr 11 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2275.0,USD,2026-09-06,2026-09-19,"Alaska, Asiana Airlines",2,27 hr 9 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2391.0,USD,2026-09-06,2026-09-19,"EVA Air, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2391.0,USD,2026-09-06,2026-09-19,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2547.0,USD,2026-09-06,2026-09-19,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2567.0,USD,2026-09-06,2026-09-19,"EVA Air, STARLUX Airlines, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2567.0,USD,2026-09-06,2026-09-19,"EVA Air, STARLUX Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2575.0,USD,2026-09-06,2026-09-19,"Alaska, Asiana Airlines",2,27 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2575.0,USD,2026-09-06,2026-09-19,"Alaska, Asiana Airlines",2,26 hr 1 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-06,2026-09-19,"EVA Air, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2617.0,USD,2026-09-06,2026-09-19,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2627.0,USD,2026-09-06,2026-09-19,"EVA Air, China Airlines, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2627.0,USD,2026-09-06,2026-09-19,"EVA Air, China Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-06,2026-09-19,"EVA Air, China Southern",2,28 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-06,2026-09-19,"EVA Air, China Southern",2,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-06,2026-09-19,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-06,2026-09-19,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-06,2026-09-19,"Air Canada, Air China",2,35 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-19,"EVA Air, XiamenAir",2,26 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-19,"EVA Air, XiamenAir",2,25 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-19,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2799.0,USD,2026-09-06,2026-09-19,"Alaska, Cathay Pacific",2,36 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2807.0,USD,2026-09-06,2026-09-19,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2814.0,USD,2026-09-06,2026-09-19,"United, Korean Air",2,27 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2849.0,USD,2026-09-06,2026-09-19,"Alaska, Cathay Pacific",2,36 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3434.0,USD,2026-09-06,2026-09-19,"United, Air China",2,39 hr 45 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3434.0,USD,2026-09-06,2026-09-19,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-06,2026-09-19,"United, Air China",2,24 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3602.0,USD,2026-09-06,2026-09-19,"Air Canada, Cathay Pacific",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4276.0,USD,2026-09-06,2026-09-19,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4276.0,USD,2026-09-06,2026-09-19,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4622.0,USD,2026-09-06,2026-09-19,"Alaska, China Airlines, Cathay Pacific",3,24 hr 31 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5426.0,USD,2026-09-06,2026-09-19,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5426.0,USD,2026-09-06,2026-09-19,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5661.0,USD,2026-09-06,2026-09-19,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6384.0,USD,2026-09-06,2026-09-19,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6386.0,USD,2026-09-06,2026-09-19,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6755.0,USD,2026-09-06,2026-09-19,"China Airlines, Cathay Pacific",2,45 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6958.0,USD,2026-09-06,2026-09-19,"Alaska, China Airlines, Cathay Pacific",3,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,7041.0,USD,2026-09-06,2026-09-19,"China Airlines, China Southern",2,29 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9543.0,USD,2026-09-06,2026-09-19,"Lufthansa, Air China",2,30 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-06,2026-09-19,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9554.0,USD,2026-09-06,2026-09-19,"Lufthansa, Air China",2,35 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,11439.0,USD,2026-09-06,2026-09-19,"China Airlines, China Southern",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,986.0,USD,2026-09-06,2026-09-20,"Korean Air, Asiana Airlines",1,32 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,986.0,USD,2026-09-06,2026-09-20,"Delta, Asiana Airlines",1,32 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1211.0,USD,2026-09-06,2026-09-20,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1144.0,USD,2026-09-06,2026-09-20,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1206.0,USD,2026-09-06,2026-09-20,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1206.0,USD,2026-09-06,2026-09-20,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1211.0,USD,2026-09-06,2026-09-20,"Alaska, Korean Air",2,26 hr 29 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1211.0,USD,2026-09-06,2026-09-20,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1211.0,USD,2026-09-06,2026-09-20,"Alaska, Korean Air",2,25 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1211.0,USD,2026-09-06,2026-09-20,"Delta, Korean Air",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1350.0,USD,2026-09-06,2026-09-20,"Alaska, Cathay Pacific",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1396.0,USD,2026-09-06,2026-09-20,"Alaska, Cathay Pacific",2,36 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1461.0,USD,2026-09-06,2026-09-20,"Alaska, Asiana Airlines",2,29 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1461.0,USD,2026-09-06,2026-09-20,"Alaska, Asiana Airlines",2,28 hr 11 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1461.0,USD,2026-09-06,2026-09-20,"Alaska, Asiana Airlines",2,27 hr 9 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1642.0,USD,2026-09-06,2026-09-20,"Alaska, Asiana Airlines",1,31 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1689.0,USD,2026-09-06,2026-09-20,"Alaska, China Southern",2,27 hr 36 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1761.0,USD,2026-09-06,2026-09-20,"Alaska, Asiana Airlines",2,27 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1761.0,USD,2026-09-06,2026-09-20,"Alaska, Asiana Airlines",2,26 hr 1 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1767.0,USD,2026-09-06,2026-09-20,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-06,2026-09-20,"EVA Air, Shenzhen",2,29 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-06,2026-09-20,"EVA Air, Shenzhen",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2342.0,USD,2026-09-06,2026-09-20,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2391.0,USD,2026-09-06,2026-09-20,"EVA Air, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2391.0,USD,2026-09-06,2026-09-20,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2567.0,USD,2026-09-06,2026-09-20,"EVA Air, STARLUX Airlines, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2567.0,USD,2026-09-06,2026-09-20,"EVA Air, STARLUX Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-06,2026-09-20,"EVA Air, China Southern",2,28 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-06,2026-09-20,"EVA Air, China Southern",2,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2685.0,USD,2026-09-06,2026-09-20,"United, Korean Air",2,27 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2689.0,USD,2026-09-06,2026-09-20,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2689.0,USD,2026-09-06,2026-09-20,"Air Canada, Air China",2,35 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-20,"EVA Air, XiamenAir",2,26 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-20,"EVA Air, XiamenAir",2,28 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-20,"EVA Air, XiamenAir",2,25 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-20,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2795.0,USD,2026-09-06,2026-09-20,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2800.0,USD,2026-09-06,2026-09-20,"Air Canada, Cathay Pacific",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3153.0,USD,2026-09-06,2026-09-20,"EVA Air, Shenzhen",2,30 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3314.0,USD,2026-09-06,2026-09-20,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3314.0,USD,2026-09-06,2026-09-20,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3434.0,USD,2026-09-06,2026-09-20,"United, Air China",2,39 hr 45 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3434.0,USD,2026-09-06,2026-09-20,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-06,2026-09-20,"United, Air China",2,24 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4406.0,USD,2026-09-06,2026-09-20,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4406.0,USD,2026-09-06,2026-09-20,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4587.0,USD,2026-09-06,2026-09-20,"Alaska, China Airlines, Cathay Pacific",3,24 hr 31 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5626.0,USD,2026-09-06,2026-09-20,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6351.0,USD,2026-09-06,2026-09-20,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,7047.0,USD,2026-09-06,2026-09-20,"China Airlines, Hainan",2,27 hr 25 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,7154.0,USD,2026-09-06,2026-09-20,"China Airlines, China Southern",2,29 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,10858.0,USD,2026-09-06,2026-09-20,"China Airlines, China Southern",2,29 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,11278.0,USD,2026-09-06,2026-09-20,"China Airlines, China Southern",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,986.0,USD,2026-09-06,2026-09-20,"Korean Air, Asiana Airlines",1,32 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,986.0,USD,2026-09-06,2026-09-20,"Delta, Asiana Airlines",1,32 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1144.0,USD,2026-09-06,2026-09-20,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1206.0,USD,2026-09-06,2026-09-20,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1206.0,USD,2026-09-06,2026-09-20,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1211.0,USD,2026-09-06,2026-09-20,"Alaska, Korean Air",2,26 hr 29 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1211.0,USD,2026-09-06,2026-09-20,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1211.0,USD,2026-09-06,2026-09-20,"Alaska, Korean Air",2,25 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1211.0,USD,2026-09-06,2026-09-20,"Delta, Korean Air",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1350.0,USD,2026-09-06,2026-09-20,"Alaska, Cathay Pacific",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1396.0,USD,2026-09-06,2026-09-20,"Alaska, Cathay Pacific",2,36 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1461.0,USD,2026-09-06,2026-09-20,"Alaska, Asiana Airlines",2,29 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1461.0,USD,2026-09-06,2026-09-20,"Alaska, Asiana Airlines",2,28 hr 11 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1461.0,USD,2026-09-06,2026-09-20,"Alaska, Asiana Airlines",2,27 hr 9 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1642.0,USD,2026-09-06,2026-09-20,"Alaska, Asiana Airlines",1,31 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1689.0,USD,2026-09-06,2026-09-20,"Alaska, China Southern",2,27 hr 36 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1761.0,USD,2026-09-06,2026-09-20,"Alaska, Asiana Airlines",2,27 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1761.0,USD,2026-09-06,2026-09-20,"Alaska, Asiana Airlines",2,26 hr 1 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1767.0,USD,2026-09-06,2026-09-20,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-06,2026-09-20,"EVA Air, Shenzhen",2,29 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2242.0,USD,2026-09-06,2026-09-20,"EVA Air, Shenzhen",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2342.0,USD,2026-09-06,2026-09-20,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2391.0,USD,2026-09-06,2026-09-20,"EVA Air, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2391.0,USD,2026-09-06,2026-09-20,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2567.0,USD,2026-09-06,2026-09-20,"EVA Air, STARLUX Airlines, Cathay Pacific",2,23 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2567.0,USD,2026-09-06,2026-09-20,"EVA Air, STARLUX Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-06,2026-09-20,"EVA Air, China Southern",2,28 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2654.0,USD,2026-09-06,2026-09-20,"EVA Air, China Southern",2,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2685.0,USD,2026-09-06,2026-09-20,"United, Korean Air",2,27 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2689.0,USD,2026-09-06,2026-09-20,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2689.0,USD,2026-09-06,2026-09-20,"Air Canada, Air China",2,35 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-20,"EVA Air, XiamenAir",2,26 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-20,"EVA Air, XiamenAir",2,28 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-20,"EVA Air, XiamenAir",2,25 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2771.0,USD,2026-09-06,2026-09-20,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2795.0,USD,2026-09-06,2026-09-20,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2800.0,USD,2026-09-06,2026-09-20,"Air Canada, Cathay Pacific",2,28 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3153.0,USD,2026-09-06,2026-09-20,"EVA Air, Shenzhen",2,30 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3314.0,USD,2026-09-06,2026-09-20,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3314.0,USD,2026-09-06,2026-09-20,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3434.0,USD,2026-09-06,2026-09-20,"United, Air China",2,39 hr 45 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3434.0,USD,2026-09-06,2026-09-20,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3469.0,USD,2026-09-06,2026-09-20,"United, Air China",2,24 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4406.0,USD,2026-09-06,2026-09-20,"United, Asiana Airlines",2,27 hr 50 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4406.0,USD,2026-09-06,2026-09-20,"United, Asiana Airlines",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4587.0,USD,2026-09-06,2026-09-20,"Alaska, China Airlines, Cathay Pacific",3,24 hr 31 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5626.0,USD,2026-09-06,2026-09-20,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6351.0,USD,2026-09-06,2026-09-20,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,7047.0,USD,2026-09-06,2026-09-20,"China Airlines, Hainan",2,27 hr 25 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,7154.0,USD,2026-09-06,2026-09-20,"China Airlines, China Southern",2,29 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,10858.0,USD,2026-09-06,2026-09-20,"China Airlines, China Southern",2,29 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,11278.0,USD,2026-09-06,2026-09-20,"China Airlines, China Southern",2,26 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,934.0,USD,2026-09-07,2026-09-18,Asiana Airlines,1,21 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1236.0,USD,2026-09-07,2026-09-18,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1240.0,USD,2026-09-07,2026-09-18,"Alaska, Korean Air",2,25 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1261.0,USD,2026-09-07,2026-09-18,"Asiana Airlines, Korean Air",1,20 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1313.0,USD,2026-09-07,2026-09-18,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1589.0,USD,2026-09-07,2026-09-18,Cathay Pacific,1,35 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1656.0,USD,2026-09-07,2026-09-18,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1661.0,USD,2026-09-07,2026-09-18,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1662.0,USD,2026-09-07,2026-09-18,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1739.0,USD,2026-09-07,2026-09-18,"Alaska, China Southern",2,27 hr 36 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1743.0,USD,2026-09-07,2026-09-18,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1756.0,USD,2026-09-07,2026-09-18,"United, Asiana Airlines",2,49 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1771.0,USD,2026-09-07,2026-09-18,"Asiana Airlines, Korean Air",1,44 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2014.0,USD,2026-09-07,2026-09-18,"Alaska, Cathay Pacific",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2401.0,USD,2026-09-07,2026-09-18,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2572.0,USD,2026-09-07,2026-09-18,"EVA Air, STARLUX Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2622.0,USD,2026-09-07,2026-09-18,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2632.0,USD,2026-09-07,2026-09-18,"EVA Air, China Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-07,2026-09-18,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-07,2026-09-18,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2776.0,USD,2026-09-07,2026-09-18,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2816.0,USD,2026-09-07,2026-09-18,"Alaska, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2816.0,USD,2026-09-07,2026-09-18,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2903.0,USD,2026-09-07,2026-09-18,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3419.0,USD,2026-09-07,2026-09-18,"United, Air China",2,24 hr 4 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3433.0,USD,2026-09-07,2026-09-18,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3433.0,USD,2026-09-07,2026-09-18,"United, Air China",2,35 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4464.0,USD,2026-09-07,2026-09-18,"United, Asiana Airlines",2,49 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4587.0,USD,2026-09-07,2026-09-18,"Alaska, China Airlines, Cathay Pacific",3,24 hr 31 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5625.0,USD,2026-09-07,2026-09-18,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5893.0,USD,2026-09-07,2026-09-18,"United, China Southern",2,27 hr 37 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6351.0,USD,2026-09-07,2026-09-18,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,934.0,USD,2026-09-07,2026-09-18,Asiana Airlines,1,21 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1236.0,USD,2026-09-07,2026-09-18,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1240.0,USD,2026-09-07,2026-09-18,"Alaska, Korean Air",2,25 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1313.0,USD,2026-09-07,2026-09-18,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1589.0,USD,2026-09-07,2026-09-18,Cathay Pacific,1,35 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1656.0,USD,2026-09-07,2026-09-18,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1661.0,USD,2026-09-07,2026-09-18,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1662.0,USD,2026-09-07,2026-09-18,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1739.0,USD,2026-09-07,2026-09-18,"Alaska, China Southern",2,27 hr 36 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1743.0,USD,2026-09-07,2026-09-18,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1756.0,USD,2026-09-07,2026-09-18,"United, Asiana Airlines",2,49 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1771.0,USD,2026-09-07,2026-09-18,"Asiana Airlines, Korean Air",1,44 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2014.0,USD,2026-09-07,2026-09-18,"Alaska, Cathay Pacific",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2401.0,USD,2026-09-07,2026-09-18,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2572.0,USD,2026-09-07,2026-09-18,"EVA Air, STARLUX Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2622.0,USD,2026-09-07,2026-09-18,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2632.0,USD,2026-09-07,2026-09-18,"EVA Air, China Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-07,2026-09-18,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2699.0,USD,2026-09-07,2026-09-18,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2776.0,USD,2026-09-07,2026-09-18,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2816.0,USD,2026-09-07,2026-09-18,"Alaska, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2816.0,USD,2026-09-07,2026-09-18,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2903.0,USD,2026-09-07,2026-09-18,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3419.0,USD,2026-09-07,2026-09-18,"United, Air China",2,24 hr 4 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3433.0,USD,2026-09-07,2026-09-18,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3433.0,USD,2026-09-07,2026-09-18,"United, Air China",2,35 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4464.0,USD,2026-09-07,2026-09-18,"United, Asiana Airlines",2,49 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4587.0,USD,2026-09-07,2026-09-18,"Alaska, China Airlines, Cathay Pacific",3,24 hr 31 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5625.0,USD,2026-09-07,2026-09-18,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5893.0,USD,2026-09-07,2026-09-18,"United, China Southern",2,27 hr 37 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6351.0,USD,2026-09-07,2026-09-18,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1372.0,USD,2026-09-07,2026-09-19,Asiana Airlines,1,21 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1481.0,USD,2026-09-07,2026-09-19,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1585.0,USD,2026-09-07,2026-09-19,"Alaska, Korean Air",2,25 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1738.0,USD,2026-09-07,2026-09-19,"Alaska, China Southern",2,27 hr 36 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1986.0,USD,2026-09-07,2026-09-19,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2006.0,USD,2026-09-07,2026-09-19,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2011.0,USD,2026-09-07,2026-09-19,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2026.0,USD,2026-09-07,2026-09-19,"Asiana Airlines, Korean Air",1,20 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2093.0,USD,2026-09-07,2026-09-19,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2401.0,USD,2026-09-07,2026-09-19,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2493.0,USD,2026-09-07,2026-09-19,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2535.0,USD,2026-09-07,2026-09-19,"Asiana Airlines, Korean Air",1,44 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2572.0,USD,2026-09-07,2026-09-19,"EVA Air, STARLUX Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2586.0,USD,2026-09-07,2026-09-19,"United, Asiana Airlines",2,49 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2622.0,USD,2026-09-07,2026-09-19,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2632.0,USD,2026-09-07,2026-09-19,"EVA Air, China Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-07,2026-09-19,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-07,2026-09-19,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2762.0,USD,2026-09-07,2026-09-19,"Alaska, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2762.0,USD,2026-09-07,2026-09-19,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2776.0,USD,2026-09-07,2026-09-19,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2892.0,USD,2026-09-07,2026-09-19,Cathay Pacific,1,35 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2916.0,USD,2026-09-07,2026-09-19,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2947.0,USD,2026-09-07,2026-09-19,"Alaska, Cathay Pacific",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3419.0,USD,2026-09-07,2026-09-19,"United, Air China",2,24 hr 4 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3433.0,USD,2026-09-07,2026-09-19,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3433.0,USD,2026-09-07,2026-09-19,"United, Air China",2,35 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4622.0,USD,2026-09-07,2026-09-19,"Alaska, China Airlines, Cathay Pacific",3,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4622.0,USD,2026-09-07,2026-09-19,"Alaska, China Airlines, Cathay Pacific",3,24 hr 31 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5436.0,USD,2026-09-07,2026-09-19,"United, Asiana Airlines",2,49 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5660.0,USD,2026-09-07,2026-09-19,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5893.0,USD,2026-09-07,2026-09-19,"United, China Southern",2,27 hr 37 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6384.0,USD,2026-09-07,2026-09-19,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6386.0,USD,2026-09-07,2026-09-19,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6755.0,USD,2026-09-07,2026-09-19,"China Airlines, Cathay Pacific",2,21 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6755.0,USD,2026-09-07,2026-09-19,"China Airlines, Cathay Pacific",2,45 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,7107.0,USD,2026-09-07,2026-09-19,"Alaska, China Airlines, Cathay Pacific",3,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,7520.0,USD,2026-09-07,2026-09-19,"China Airlines, Hainan",2,27 hr 25 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9572.0,USD,2026-09-07,2026-09-19,"Alaska, Korean Air",2,26 hr 54 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9572.0,USD,2026-09-07,2026-09-19,"Air Canada, Korean Air",2,25 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9572.0,USD,2026-09-07,2026-09-19,"Alaska, Korean Air",2,24 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1372.0,USD,2026-09-07,2026-09-19,Asiana Airlines,1,21 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1481.0,USD,2026-09-07,2026-09-19,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1738.0,USD,2026-09-07,2026-09-19,"Alaska, China Southern",2,27 hr 36 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1986.0,USD,2026-09-07,2026-09-19,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2006.0,USD,2026-09-07,2026-09-19,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2011.0,USD,2026-09-07,2026-09-19,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2026.0,USD,2026-09-07,2026-09-19,"Asiana Airlines, Korean Air",1,20 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2093.0,USD,2026-09-07,2026-09-19,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2401.0,USD,2026-09-07,2026-09-19,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2493.0,USD,2026-09-07,2026-09-19,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2535.0,USD,2026-09-07,2026-09-19,"Asiana Airlines, Korean Air",1,44 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2572.0,USD,2026-09-07,2026-09-19,"EVA Air, STARLUX Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2586.0,USD,2026-09-07,2026-09-19,"United, Asiana Airlines",2,49 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2622.0,USD,2026-09-07,2026-09-19,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2632.0,USD,2026-09-07,2026-09-19,"EVA Air, China Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-07,2026-09-19,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2712.0,USD,2026-09-07,2026-09-19,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2762.0,USD,2026-09-07,2026-09-19,"Alaska, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2762.0,USD,2026-09-07,2026-09-19,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2776.0,USD,2026-09-07,2026-09-19,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2892.0,USD,2026-09-07,2026-09-19,Cathay Pacific,1,35 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2916.0,USD,2026-09-07,2026-09-19,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2947.0,USD,2026-09-07,2026-09-19,"Alaska, Cathay Pacific",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3419.0,USD,2026-09-07,2026-09-19,"United, Air China",2,24 hr 4 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3433.0,USD,2026-09-07,2026-09-19,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3433.0,USD,2026-09-07,2026-09-19,"United, Air China",2,35 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4622.0,USD,2026-09-07,2026-09-19,"Alaska, China Airlines, Cathay Pacific",3,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4622.0,USD,2026-09-07,2026-09-19,"Alaska, China Airlines, Cathay Pacific",3,24 hr 31 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5436.0,USD,2026-09-07,2026-09-19,"United, Asiana Airlines",2,49 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5660.0,USD,2026-09-07,2026-09-19,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5893.0,USD,2026-09-07,2026-09-19,"United, China Southern",2,27 hr 37 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6384.0,USD,2026-09-07,2026-09-19,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6386.0,USD,2026-09-07,2026-09-19,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6755.0,USD,2026-09-07,2026-09-19,"China Airlines, Cathay Pacific",2,21 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6755.0,USD,2026-09-07,2026-09-19,"China Airlines, Cathay Pacific",2,45 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,7107.0,USD,2026-09-07,2026-09-19,"Alaska, China Airlines, Cathay Pacific",3,27 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,7520.0,USD,2026-09-07,2026-09-19,"China Airlines, Hainan",2,27 hr 25 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9572.0,USD,2026-09-07,2026-09-19,"Alaska, Korean Air",2,26 hr 54 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9572.0,USD,2026-09-07,2026-09-19,"Air Canada, Korean Air",2,25 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,9572.0,USD,2026-09-07,2026-09-19,"Alaska, Korean Air",2,24 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,886.0,USD,2026-09-07,2026-09-20,Asiana Airlines,1,21 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1186.0,USD,2026-09-07,2026-09-20,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1190.0,USD,2026-09-07,2026-09-20,"Alaska, Korean Air",2,25 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1188.0,USD,2026-09-07,2026-09-20,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1464.0,USD,2026-09-07,2026-09-20,Cathay Pacific,1,35 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1501.0,USD,2026-09-07,2026-09-20,"Asiana Airlines, Korean Air",1,20 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1581.0,USD,2026-09-07,2026-09-20,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1586.0,USD,2026-09-07,2026-09-20,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1586.0,USD,2026-09-07,2026-09-20,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1709.0,USD,2026-09-07,2026-09-20,"United, Asiana Airlines",2,49 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1721.0,USD,2026-09-07,2026-09-20,"Asiana Airlines, Korean Air",1,44 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1739.0,USD,2026-09-07,2026-09-20,"Alaska, China Southern",2,27 hr 36 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1821.0,USD,2026-09-07,2026-09-20,"Alaska, Cathay Pacific",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2093.0,USD,2026-09-07,2026-09-20,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2401.0,USD,2026-09-07,2026-09-20,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2572.0,USD,2026-09-07,2026-09-20,"EVA Air, STARLUX Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2622.0,USD,2026-09-07,2026-09-20,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2632.0,USD,2026-09-07,2026-09-20,"EVA Air, China Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2739.0,USD,2026-09-07,2026-09-20,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2739.0,USD,2026-09-07,2026-09-20,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2776.0,USD,2026-09-07,2026-09-20,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2847.0,USD,2026-09-07,2026-09-20,"Alaska, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2847.0,USD,2026-09-07,2026-09-20,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2921.0,USD,2026-09-07,2026-09-20,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3419.0,USD,2026-09-07,2026-09-20,"United, Air China",2,24 hr 4 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3433.0,USD,2026-09-07,2026-09-20,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3433.0,USD,2026-09-07,2026-09-20,"United, Air China",2,35 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3904.0,USD,2026-09-07,2026-09-20,"Alaska, China Airlines, Cathay Pacific",3,24 hr 31 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4416.0,USD,2026-09-07,2026-09-20,"United, Asiana Airlines",2,49 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4602.0,USD,2026-09-07,2026-09-20,"Alaska, China Airlines, Cathay Pacific",3,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5625.0,USD,2026-09-07,2026-09-20,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5893.0,USD,2026-09-07,2026-09-20,"United, China Southern",2,27 hr 37 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6349.0,USD,2026-09-07,2026-09-20,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6351.0,USD,2026-09-07,2026-09-20,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,7990.0,USD,2026-09-07,2026-09-20,"China Airlines, Hainan",2,27 hr 25 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,886.0,USD,2026-09-07,2026-09-20,Asiana Airlines,1,21 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1186.0,USD,2026-09-07,2026-09-20,Korean Air,1,31 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1188.0,USD,2026-09-07,2026-09-20,"Alaska, Cathay Pacific",2,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1464.0,USD,2026-09-07,2026-09-20,Cathay Pacific,1,35 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1501.0,USD,2026-09-07,2026-09-20,"Asiana Airlines, Korean Air",1,20 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1581.0,USD,2026-09-07,2026-09-20,"Delta, Korean Air",1,31 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1586.0,USD,2026-09-07,2026-09-20,"Alaska, Korean Air",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1586.0,USD,2026-09-07,2026-09-20,"Delta, Korean Air",2,25 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1709.0,USD,2026-09-07,2026-09-20,"United, Asiana Airlines",2,49 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1721.0,USD,2026-09-07,2026-09-20,"Asiana Airlines, Korean Air",1,44 hr 20 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1739.0,USD,2026-09-07,2026-09-20,"Alaska, China Southern",2,27 hr 36 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,1821.0,USD,2026-09-07,2026-09-20,"Alaska, Cathay Pacific",2,26 hr 12 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2093.0,USD,2026-09-07,2026-09-20,"Alaska, Korean Air",1,30 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2401.0,USD,2026-09-07,2026-09-20,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2572.0,USD,2026-09-07,2026-09-20,"EVA Air, STARLUX Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2622.0,USD,2026-09-07,2026-09-20,"EVA Air, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2632.0,USD,2026-09-07,2026-09-20,"EVA Air, China Airlines, Cathay Pacific",2,22 hr,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2739.0,USD,2026-09-07,2026-09-20,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2739.0,USD,2026-09-07,2026-09-20,"Air Canada, Air China",2,20 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2776.0,USD,2026-09-07,2026-09-20,"EVA Air, XiamenAir",2,27 hr 5 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2847.0,USD,2026-09-07,2026-09-20,"Alaska, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2847.0,USD,2026-09-07,2026-09-20,"Alaska, Air Canada, Air China",2,21 hr 23 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2921.0,USD,2026-09-07,2026-09-20,"Air Canada, Air China",2,25 hr 30 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3419.0,USD,2026-09-07,2026-09-20,"United, Air China",2,24 hr 4 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3433.0,USD,2026-09-07,2026-09-20,"United, Air China",2,37 hr 55 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3433.0,USD,2026-09-07,2026-09-20,"United, Air China",2,35 hr 40 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,3904.0,USD,2026-09-07,2026-09-20,"Alaska, China Airlines, Cathay Pacific",3,24 hr 31 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4416.0,USD,2026-09-07,2026-09-20,"United, Asiana Airlines",2,49 hr 35 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,4602.0,USD,2026-09-07,2026-09-20,"Alaska, China Airlines, Cathay Pacific",3,27 hr 34 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5625.0,USD,2026-09-07,2026-09-20,"Delta, Cathay Pacific",2,26 hr 10 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,5893.0,USD,2026-09-07,2026-09-20,"United, China Southern",2,27 hr 37 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6349.0,USD,2026-09-07,2026-09-20,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,6351.0,USD,2026-09-07,2026-09-20,"JAL, Malaysia Airlines, Cathay Pacific",3,58 hr 15 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,7990.0,USD,2026-09-07,2026-09-20,"China Airlines, Hainan",2,27 hr 25 min,Fall trip
+2026-05-16T16:55:59,SEA,XIY,2956.0,USD,2026-12-19,2027-01-02,Korean Air / Korean Air,1,32 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3500.0,USD,2026-12-19,2027-01-02,Cathay Pacific / Cathay Pacific,1,35 hr 50 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3774.0,USD,2026-12-19,2027-01-02,Delta / Korean Air,1,30 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3342.0,USD,2026-12-19,2027-01-02,Air Canada / Air Canada / Air China,2,42 hr 40 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3527.0,USD,2026-12-19,2027-01-02,Air Canada / Air Canada / Air China,2,41 hr 10 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3742.0,USD,2026-12-19,2027-01-02,Alaska / Korean Air,1,31 hr 5 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3829.0,USD,2026-12-19,2027-01-02,Alaska / Cathay Pacific / Cathay Pacific,2,28 hr 41 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,4275.0,USD,2026-12-19,2027-01-02,Air Canada / Air Canada / China Southern,2,21 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,5387.0,USD,2026-12-19,2027-01-02,EVA Air / EVA Air / Hainan,2,22 hr 55 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,6636.0,USD,2026-12-19,2027-01-02,Asiana Airlines / Asiana Airlines,1,20 hr 15 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,6741.0,USD,2026-12-19,2027-01-02,Asiana Airlines / Korean Air,1,19 hr 35 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2706.0,USD,2026-12-20,2027-01-01,Korean Air / Korean Air,1,32 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2906.0,USD,2026-12-20,2027-01-01,Delta / Korean Air,1,30 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3517.0,USD,2026-12-20,2027-01-01,Alaska / Korean Air,1,31 hr 5 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3346.0,USD,2026-12-20,2027-01-01,Air Canada / Air China / Air China,2,35 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3494.0,USD,2026-12-20,2027-01-01,Alaska / Cathay Pacific / Cathay Pacific,2,28 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3774.0,USD,2026-12-20,2027-01-01,Alaska / Cathay Pacific / Cathay Pacific,2,28 hr 41 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3788.0,USD,2026-12-20,2027-01-01,EVA Air / EVA Air / Cathay Pacific,2,22 hr 30 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3833.0,USD,2026-12-20,2027-01-01,Air Canada / Air Canada / China Southern,2,21 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2506.0,USD,2026-12-21,2027-01-01,Delta / Korean Air,1,30 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2706.0,USD,2026-12-21,2027-01-01,Korean Air / Korean Air,1,32 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3024.0,USD,2026-12-21,2027-01-01,Asiana Airlines / Asiana Airlines,1,20 hr 15 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3063.0,USD,2026-12-21,2027-01-01,Air Canada / Air Canada / China Southern,2,21 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3261.0,USD,2026-12-21,2027-01-01,Asiana Airlines / Korean Air,1,19 hr 35 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3280.0,USD,2026-12-21,2027-01-01,Air Canada / Air China / Air China,2,21 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3373.0,USD,2026-12-21,2027-01-01,Alaska / Air China / Air China,2,21 hr 44 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3395.0,USD,2026-12-21,2027-01-01,Cathay Pacific / Cathay Pacific,1,35 hr 50 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2506.0,USD,2026-12-21,2027-01-02,Delta / Korean Air,1,30 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2706.0,USD,2026-12-21,2027-01-02,Korean Air / Korean Air,1,32 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3299.0,USD,2026-12-21,2027-01-02,Air Canada / Air Canada / China Southern,2,21 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3327.0,USD,2026-12-21,2027-01-02,Air Canada / Air Canada / Air China,2,41 hr 10 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3450.0,USD,2026-12-21,2027-01-02,Cathay Pacific / Cathay Pacific,1,35 hr 50 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3461.0,USD,2026-12-21,2027-01-02,Air Canada / Air China / Air China,2,21 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3561.0,USD,2026-12-21,2027-01-02,Alaska / Air China / Air China,2,21 hr 44 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,5328.0,USD,2026-12-21,2027-01-02,United / United / Air China,2,23 hr 28 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,6636.0,USD,2026-12-21,2027-01-02,Asiana Airlines / Asiana Airlines,1,20 hr 15 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,6741.0,USD,2026-12-21,2027-01-02,Asiana Airlines / Korean Air,1,19 hr 35 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2206.0,USD,2026-12-21,2027-01-03,"Delta, Korean Air",1,30 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2406.0,USD,2026-12-21,2027-01-03,Korean Air,1,32 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3063.0,USD,2026-12-21,2027-01-03,"Air Canada, China Southern",2,21 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3065.0,USD,2026-12-21,2027-01-03,Cathay Pacific,1,35 hr 50 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3784.0,USD,2026-12-21,2027-01-03,Asiana Airlines,1,20 hr 15 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3430.0,USD,2026-12-21,2027-01-03,"Air Canada, Air China",2,42 hr 40 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3467.0,USD,2026-12-21,2027-01-03,"Air Canada, Air China",2,41 hr 10 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3586.0,USD,2026-12-21,2027-01-03,"Air Canada, Air China",2,21 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3672.0,USD,2026-12-21,2027-01-03,"Alaska, Air China",2,21 hr 44 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,4061.0,USD,2026-12-21,2027-01-03,"Asiana Airlines, Korean Air",1,19 hr 35 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,7220.0,USD,2026-12-21,2027-01-03,"United, Air China",2,23 hr 28 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2206.0,USD,2026-12-21,2027-01-03,"Delta, Korean Air",1,30 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2406.0,USD,2026-12-21,2027-01-03,Korean Air,1,32 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3063.0,USD,2026-12-21,2027-01-03,"Air Canada, China Southern",2,21 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3065.0,USD,2026-12-21,2027-01-03,Cathay Pacific,1,35 hr 50 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3430.0,USD,2026-12-21,2027-01-03,"Air Canada, Air China",2,42 hr 40 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3467.0,USD,2026-12-21,2027-01-03,"Air Canada, Air China",2,41 hr 10 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3586.0,USD,2026-12-21,2027-01-03,"Air Canada, Air China",2,21 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3672.0,USD,2026-12-21,2027-01-03,"Alaska, Air China",2,21 hr 44 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,4061.0,USD,2026-12-21,2027-01-03,"Asiana Airlines, Korean Air",1,19 hr 35 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,7220.0,USD,2026-12-21,2027-01-03,"United, Air China",2,23 hr 28 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2506.0,USD,2026-12-22,2027-01-01,Korean Air / Korean Air,1,32 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2591.0,USD,2026-12-22,2027-01-01,Cathay Pacific / Cathay Pacific,1,35 hr 50 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2706.0,USD,2026-12-22,2027-01-01,Delta / Korean Air,1,30 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2761.0,USD,2026-12-22,2027-01-01,Asiana Airlines / Korean Air,1,19 hr 35 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3220.0,USD,2026-12-22,2027-01-01,Alaska / Cathay Pacific / Cathay Pacific,2,28 hr 41 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3300.0,USD,2026-12-22,2027-01-01,Air Canada / Air Canada / China Southern,2,21 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3319.0,USD,2026-12-22,2027-01-01,Air Canada / Air China / Air China,2,39 hr 10 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3894.0,USD,2026-12-22,2027-01-01,Air Canada / Air China / Air China,2,35 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2506.0,USD,2026-12-22,2027-01-02,Korean Air / Korean Air,1,32 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2646.0,USD,2026-12-22,2027-01-02,Cathay Pacific / Cathay Pacific,1,35 hr 50 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2706.0,USD,2026-12-22,2027-01-02,Delta / Korean Air,1,30 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3275.0,USD,2026-12-22,2027-01-02,Alaska / Cathay Pacific / Cathay Pacific,2,28 hr 41 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3342.0,USD,2026-12-22,2027-01-02,Air Canada / Air Canada / Air China,2,41 hr 10 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3500.0,USD,2026-12-22,2027-01-02,Air Canada / Air China / Air China,2,39 hr 10 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3536.0,USD,2026-12-22,2027-01-02,Air Canada / Air Canada / China Southern,2,21 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,4075.0,USD,2026-12-22,2027-01-02,Air Canada / Air China / Air China,2,35 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,5078.0,USD,2026-12-22,2027-01-02,United / United / Air China,2,23 hr 28 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,6741.0,USD,2026-12-22,2027-01-02,Asiana Airlines / Korean Air,1,19 hr 35 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2206.0,USD,2026-12-22,2027-01-03,Korean Air,1,32 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2261.0,USD,2026-12-22,2027-01-03,Cathay Pacific,1,35 hr 50 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2406.0,USD,2026-12-22,2027-01-03,"Delta, Korean Air",1,30 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2890.0,USD,2026-12-22,2027-01-03,"Alaska, Cathay Pacific",2,28 hr 41 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3300.0,USD,2026-12-22,2027-01-03,"Air Canada, China Southern",2,21 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3467.0,USD,2026-12-22,2027-01-03,"Air Canada, Air China",2,41 hr 10 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3561.0,USD,2026-12-22,2027-01-03,"Asiana Airlines, Korean Air",1,19 hr 35 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3625.0,USD,2026-12-22,2027-01-03,"Air Canada, Air China",2,39 hr 10 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,4200.0,USD,2026-12-22,2027-01-03,"Air Canada, Air China",2,35 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,5456.0,USD,2026-12-22,2027-01-03,"Air Canada, Korean Air",2,24 hr 40 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,6220.0,USD,2026-12-22,2027-01-03,"United, Air China",2,23 hr 28 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,6812.0,USD,2026-12-22,2027-01-03,"Hainan, China Southern",1,20 hr 50 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2206.0,USD,2026-12-22,2027-01-03,Korean Air,1,32 hr 45 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2261.0,USD,2026-12-22,2027-01-03,Cathay Pacific,1,35 hr 50 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,2890.0,USD,2026-12-22,2027-01-03,"Alaska, Cathay Pacific",2,28 hr 41 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3300.0,USD,2026-12-22,2027-01-03,"Air Canada, China Southern",2,21 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3467.0,USD,2026-12-22,2027-01-03,"Air Canada, Air China",2,41 hr 10 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3561.0,USD,2026-12-22,2027-01-03,"Asiana Airlines, Korean Air",1,19 hr 35 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,3625.0,USD,2026-12-22,2027-01-03,"Air Canada, Air China",2,39 hr 10 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,4200.0,USD,2026-12-22,2027-01-03,"Air Canada, Air China",2,35 hr 20 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,5456.0,USD,2026-12-22,2027-01-03,"Air Canada, Korean Air",2,24 hr 40 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,6220.0,USD,2026-12-22,2027-01-03,"United, Air China",2,23 hr 28 min,Winter trip
+2026-05-16T16:55:59,SEA,XIY,6812.0,USD,2026-12-22,2027-01-03,"Hainan, China Southern",1,20 hr 50 min,Winter trip
